@@ -1,0 +1,15 @@
+D:\Users\xuchenhui\Desktop\SoftwareDog\Dog\obj\x86\Debug\Dog.Form1.resources
+D:\Users\xuchenhui\Desktop\SoftwareDog\Dog\obj\x86\Debug\Dog.Properties.Resources.resources
+D:\Users\xuchenhui\Desktop\SoftwareDog\Dog\obj\x86\Debug\WatchDog.csproj.GenerateResource.Cache
+D:\Users\xuchenhui\Desktop\SoftwareDog\Dog\bin\Debug\WatchDog.exe
+D:\Users\xuchenhui\Desktop\SoftwareDog\Dog\bin\Debug\WatchDog.pdb
+D:\Users\xuchenhui\Desktop\SoftwareDog\Dog\obj\x86\Debug\WatchDog.exe
+D:\Users\xuchenhui\Desktop\SoftwareDog\Dog\obj\x86\Debug\WatchDog.pdb
+E:\VS解决方案\SoftwareDog\Dog\obj\x86\Debug\WatchDog.exe
+E:\VS解决方案\SoftwareDog\Dog\obj\x86\Debug\WatchDog.pdb
+E:\VS解决方案\SoftwareDog\Dog\bin\Debug\WatchDog.exe
+E:\VS解决方案\SoftwareDog\Dog\obj\x86\Debug\Dog.Form1.resources
+E:\VS解决方案\SoftwareDog\Dog\obj\x86\Debug\Dog.Properties.Resources.resources
+E:\VS解决方案\SoftwareDog\Dog\obj\x86\Debug\WatchDog.csproj.GenerateResource.Cache
+E:\VS解决方案\SoftwareDog\Dog\bin\Debug\WatchDog.pdb
+E:\VS解决方案\SoftwareDog\Dog\obj\x86\Debug\Dog.login_in.resources

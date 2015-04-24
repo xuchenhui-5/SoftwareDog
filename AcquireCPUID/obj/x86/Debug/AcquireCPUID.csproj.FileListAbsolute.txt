@@ -1,0 +1,7 @@
+E:\VS解决方案\SoftwareDog\AcquireCPUID\bin\Debug\AcquireCPUID.exe
+E:\VS解决方案\SoftwareDog\AcquireCPUID\bin\Debug\AcquireCPUID.pdb
+E:\VS解决方案\SoftwareDog\AcquireCPUID\obj\x86\Debug\AcquireCPUID.Form1.resources
+E:\VS解决方案\SoftwareDog\AcquireCPUID\obj\x86\Debug\AcquireCPUID.Properties.Resources.resources
+E:\VS解决方案\SoftwareDog\AcquireCPUID\obj\x86\Debug\AcquireCPUID.csproj.GenerateResource.Cache
+E:\VS解决方案\SoftwareDog\AcquireCPUID\obj\x86\Debug\AcquireCPUID.exe
+E:\VS解决方案\SoftwareDog\AcquireCPUID\obj\x86\Debug\AcquireCPUID.pdb

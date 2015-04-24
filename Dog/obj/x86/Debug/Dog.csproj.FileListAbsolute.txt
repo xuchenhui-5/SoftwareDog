@@ -1,0 +1,7 @@
+D:\Users\xuchenhui\Desktop\SoftwareDog\Dog\bin\Debug\Dog.exe
+D:\Users\xuchenhui\Desktop\SoftwareDog\Dog\bin\Debug\Dog.pdb
+D:\Users\xuchenhui\Desktop\SoftwareDog\Dog\obj\x86\Debug\Dog.Form1.resources
+D:\Users\xuchenhui\Desktop\SoftwareDog\Dog\obj\x86\Debug\Dog.Properties.Resources.resources
+D:\Users\xuchenhui\Desktop\SoftwareDog\Dog\obj\x86\Debug\Dog.csproj.GenerateResource.Cache
+D:\Users\xuchenhui\Desktop\SoftwareDog\Dog\obj\x86\Debug\Dog.exe
+D:\Users\xuchenhui\Desktop\SoftwareDog\Dog\obj\x86\Debug\Dog.pdb
